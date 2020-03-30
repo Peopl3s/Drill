@@ -5,3 +5,7 @@ The <azimuth> field allows you to enter the azimuth of the plane. When it change
 The graphic scene can be scaled, which allows you to see the entire trajectory of the movement.
 
 C++14, Qt 5.5+
+
+![][logo]
+
+[logo]: gitburqtcss.png "Logo text"
